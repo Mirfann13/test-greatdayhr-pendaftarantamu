@@ -11,35 +11,39 @@
 - Filter, search, Pagination data tamu
 - Memfoto Tamu (Belum sempat mengimplementasi, tetapi camera/webcam sudah bisa jalan)
 
-Demo Aplikasi :
+## Akun :
+- Username : admin3
+- password : admin3
+
+# Demo Aplikasi :
 
 <h3>1. Admin Login</h3>
 
-<img src="dokumentasi foto/img/login page.PNG">
+<img src="dokumentasi-foto/login-page.PNG">
 
 <h3>2. Signup Admin</h3>
 
-<img src="dokumentasi foto/img/signup admin.PNG">
+<img src="dokumentasi-foto/signup-admin.PNG">
 
 <h3>3. Dashboard Pendaftaran Tamu</h3>
 
-<img src="dokumentasi foto/img/beranda page (pendaftaran tamu).PNG">
+<img src="dokumentasi-foto/page-pendaftaran-tamu.PNG">
 
 <h3>4. Tambah/Pendaftaran Tamu</h3>
 
-<img src="dokumentasi foto/img/add pendaftaran tamu.PNG">
+<img src="dokumentasi-foto/add-pendaftaran-tamu.PNG">
 
 <h3>5. Edit Data Tamu</h3>
 
-<img src="dokumentasi foto/img/edit data tamu.PNG">
+<img src="dokumentasi-foto/edit data tamu.PNG">
 
 <h3>6. Hapus Data Tamu</h3>
 
-<img src="dokumentasi foto/img/hapus data tamu.PNG">
+<img src="dokumentasi-foto/hapus-data-tamu.PNG">
 
 <h3>7. Logout</h3>
 
-<img src="dokumentasi foto/img/logout.PNG">
+<img src="dokumentasi-foto/logout.PNG">
 
 ## Cara Instalasi
 
