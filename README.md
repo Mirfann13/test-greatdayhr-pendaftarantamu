@@ -11,6 +11,12 @@
 - Filter, search, Pagination data tamu
 - Memfoto Tamu (Belum sempat mengimplementasi, tetapi camera/webcam sudah bisa jalan)
 
+Fitur aplikasi yang difikirkan tetapi belum terimplementasi :
+- Scan QR Code
+- Memberi uang melalui Gopay, Ovo, Dsb ( Pendaftaran Tamu untuk event Weeding)
+- Push Notification ke nomor hp Tamu untuk remainder acara
+- dan lain lain
+
 ## Akun :
 - Username : admin3
 - password : admin3
